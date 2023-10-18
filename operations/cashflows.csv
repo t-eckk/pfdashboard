@@ -1,2 +1,39 @@
 ticker,side,date,amount,comment
-CASH,Inflow,2023-05-31,500.0,Account inception
+CASH,Inflow,2022-03-27,300.0,Inception
+CASH,Inflow,2022-05-25,1000.0,Inflow 1000
+CASH,Inflow,2023-04-01,10.0,Inflow 10
+CASH,Inflow,2023-04-01,10.0,Inflow 10
+CASH,Inflow,2023-04-01,8500.0,Inflow 8500
+CASH,Corporate Action,2022-04-29,0.04,EMHG.L
+CASH,Corporate Action,2022-06-29,0.92,IWVG.L
+CASH,Corporate Action,2022-06-29,5.15,IDTG.L
+CASH,Corporate Action,2022-07-27,2.1,IWDG.L
+CASH,Corporate Action,2022-08-15,0.03,Cash rate
+CASH,Corporate Action,2022-09-15,0.27,Cash rate
+CASH,Corporate Action,2022-10-17,0.26,Cash rate
+CASH,Corporate Action,2022-10-26,1.57,IWDG.L
+CASH,Corporate Action,2022-11-15,0.27,Cash rate
+CASH,Corporate Action,2022-12-15,0.26,Cash rate
+CASH,Corporate Action,2023-01-17,0.27,Cash rate
+CASH,Corporate Action,2023-02-15,0.24,Cash rate
+CASH,Corporate Action,2023-03-15,0.2,Cash rate
+CASH,Corporate Action,2023-04-19,0.23,Cash rate
+CASH,Corporate Action,2023-05-16,0.21,Cash rate
+CASH,Corporate Action,2023-06-15,0.05,Cash rate
+CASH,Corporate Action,2023-07-17,0.05,Cash rate
+CASH,Corporate Action,2023-08-15,0.12,Cash rate
+CASH,Corporate Action,2023-09-15,0.14,Cash rate
+CASH,Corporate Action,2022-12-30,5.46,IDTG.L
+CASH,Corporate Action,2023-06-28,55.14,IDTG.L
+CASH,Corporate Action,2023-03-29,1.68,IBTG.L
+CASH,Corporate Action,2022-12-30,0.65,IWVG.L
+CASH,Corporate Action,2023-06-28,1.08,IWVG.L
+CASH,Corporate Action,2023-01-25,0.94,IWDG.L
+CASH,Corporate Action,2023-04-26,13.99,IWDG.L
+CASH,Corporate Action,2023-07-26,17.99,IWDG.L
+CASH,Corporate Action,2023-06-28,32.17,UESD.L
+CASH,Corporate Action,2023-09-21,3.43,GLT5.L
+CASH,Corporate Action,2023-09-27,2.42,IBTG.L
+
+
+
